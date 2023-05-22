@@ -14,6 +14,10 @@ In this project, the aim is to estimate whether a bank's customers leave the ban
 
 ## Dataset Overview
 
+Dataset consists of 10000 observations and 12 variables.
+Independent variables contain information about customers.
+Dependent variable refers to customer abandonment.
+
 - RowNumber: corresponds to the record (row) number and has no effect on the output.
 - CustomerId: contains random values and has no effect on customer leaving the bank.
 - Surname: the surname of a customer has no impact on their decision to leave the bank.
