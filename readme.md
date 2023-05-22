@@ -1,12 +1,15 @@
-# Churn for Bank Customers
+# Churn problem for Bank Customers
 
-Short description or summary of the dataset.
+Churn analysis, also known as customer attrition analysis, is a process of examining and understanding the factors that contribute to customer churn or defection in a business. Churn refers to the phenomenon where customers or users of a product or service discontinue their relationship or subscription with a company.
+
+Churn analysis aims to identify patterns, trends, and indicators that can help businesses predict and prevent customer churn. By analyzing customer data and behavior, businesses can gain insights into why customers are leaving and take proactive measures to retain them.
+
+In this project, the aim is to estimate whether a bank's customers leave the bank or not. In addition, the event that defines the customer abandonment is the closing of the customer's bank account.
 
 ## Table of Contents
 
 - [Dataset Overview](#dataset-overview)
 - [Data Source](#data-source)
-- [Data Description](#data-description)
 - [License](#license)
 
 ## Dataset Overview
@@ -29,10 +32,6 @@ Short description or summary of the dataset.
 ## Data Source
 
 https://www.kaggle.com/mathchi/churn-for-bank-customers
-
-## Data Description
-
-Describe the data in more detail, including its format, structure, and size. Mention if it is a structured or unstructured dataset and highlight any specific characteristics or features that make it unique.
 
 ## License
 
