@@ -35,7 +35,7 @@ Dependent variable, represents the outcome or event that we want to predict or u
 
 ## Data Source
 
-https://www.kaggle.com/mathchi/churn-for-bank-customers
+<https://www.kaggle.com/mathchi/churn-for-bank-customers>
 
 ## License
 
