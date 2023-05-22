@@ -29,7 +29,6 @@ Short description or summary of the dataset.
         - EstimatedSalary: as with balance, people with lower salaries are more likely to leave the bank compared to those with higher salaries.
         - Exited: whether or not the customer left the bank.
 
-
 ## Data Source
 
 https://www.kaggle.com/mathchi/churn-for-bank-customers
