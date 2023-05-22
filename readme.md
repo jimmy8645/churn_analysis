@@ -7,6 +7,7 @@ Short description or summary of the dataset.
 - [Dataset Overview](#dataset-overview)
 - [Data Source](#data-source)
 - [Data Description](#data-description)
+- [License](#license)
 
 ## Dataset Overview
 
@@ -32,3 +33,7 @@ https://www.kaggle.com/mathchi/churn-for-bank-customers
 ## Data Description
 
 Describe the data in more detail, including its format, structure, and size. Mention if it is a structured or unstructured dataset and highlight any specific characteristics or features that make it unique.
+
+## License
+
+[CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
