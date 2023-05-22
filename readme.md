@@ -22,12 +22,12 @@ Short description or summary of the dataset.
 - Gender: it’s interesting to explore whether gender plays a role in a customer leaving the bank.
 - Age: this is certainly relevant, since older customers are less likely to leave their bank than younger ones.
 - Tenure: refers to the number of years that the customer has been a client of the bank. Normally, older clients are more loyal and less likely to leave a bank.
-        - Balance: also a very good indicator of customer churn, as people with a higher balance in their accounts are less likely to leave the bank compared to those with lower balances.
-        - NumOfProducts: refers to the number of products that a customer has purchased through the bank.
-        - HasCrCard: denotes whether or not a customer has a credit card. This column is also relevant, since people with a credit card are less likely to leave the bank.
-        - IsActiveMember: active customers are less likely to leave the bank.
-        - EstimatedSalary: as with balance, people with lower salaries are more likely to leave the bank compared to those with higher salaries.
-        - Exited: whether or not the customer left the bank.
+    - Balance: also a very good indicator of customer churn, as people with a higher balance in their accounts are less likely to leave the bank compared to those with lower balances.
+    - NumOfProducts: refers to the number of products that a customer has purchased through the bank.
+    - HasCrCard: denotes whether or not a customer has a credit card. This column is also relevant, since people with a credit card are less likely to leave the bank.
+    - IsActiveMember: active customers are less likely to leave the bank.
+    - EstimatedSalary: as with balance, people with lower salaries are more likely to leave the bank compared to those with higher salaries.
+    - Exited: whether or not the customer left the bank.
 
 ## Data Source
 
